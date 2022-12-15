@@ -1,7 +1,7 @@
 # CheckSpeech-AI
 
 <p>
-    Fiz o projeto totalmente do zero (html, css e javascript apenas) sem usar nenhum FrameWork pois não tenho confiaça de que iria conseguir entregar a tempo ou com tanta qualidade se utilizasse React (FrameWork que costumo utilizar, meu antigo <a href="">portfolio</a> foi feito em React, mas não gosto tanto deste), então fiz de tudo para entregar o melhor possivel, mesmo que eu não seja selecionado do que acharam do meu projeto gostaria de um feedback da opinião de vocês pois quero melhorar cada vez mais, Obrigado pela oportunidade!
+    Fiz o projeto totalmente do zero (html, css e javascript apenas) sem usar nenhum FrameWork pois não tenho confiaça de que iria conseguir entregar a tempo ou com tanta qualidade se utilizasse React (FrameWork que costumo utilizar, meu antigo <a href="https://brunoxavier.vercel.app/">portfolio</a> foi feito em React, mas não gosto tanto deste), então fiz de tudo para entregar o melhor possivel, mesmo que eu não seja selecionado do que acharam do meu projeto gostaria de um feedback da opinião de vocês pois quero melhorar cada vez mais, Obrigado pela oportunidade!
 </p>
 
 <p>
